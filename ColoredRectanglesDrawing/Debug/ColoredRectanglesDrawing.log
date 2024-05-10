@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\BACKUP\GitHub Calismalar\OpenGL\ColoredRectanglesDrawing\main.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+  ColoredRectanglesDrawing.vcxproj -> D:\BACKUP\GitHub Calismalar\OpenGL\ColoredRectanglesDrawing\Debug\ColoredRectanglesDrawing.exe
