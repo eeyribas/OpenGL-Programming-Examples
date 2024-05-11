@@ -9,4 +9,6 @@ glut32.lib --> $(MSDevDir)....\VisualStudio\lib
 
 glut.h  --> $(MSDevDir)....\VisualStudio\include
 
+The outputs of sample applications are located in the _Output folder.
+
 There are a total of 26 examples. These examples include the ones I learned during my university years. It's a good repository for those who want to learn the OpenGL Programming Language.
